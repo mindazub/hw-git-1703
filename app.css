@@ -2,3 +2,7 @@ body {
 	background: #ffffff;
 	margin: 0 auto;
 }
+
+.button {
+	border-radius: 3px;
+}
